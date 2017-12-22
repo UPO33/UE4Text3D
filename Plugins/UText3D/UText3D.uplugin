@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UText3D",
+	"Description": "",
+	"Category": "Rendering",
+	"CreatedBy": "UPO33",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UText3D",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

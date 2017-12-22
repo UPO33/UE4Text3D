@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/Binaries
+/Build
+/Debug
+/DerivedDataCache
+/Intermediate
+/Saved
+/x64
